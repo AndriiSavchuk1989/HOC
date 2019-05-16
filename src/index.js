@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Enhancer from './Enhancer';
-import ButtonComponent from './Button.component';
+import Enhancer from "./Enhancer";
+import ButtonComponent from "./Button.component";
 
 import "./styles.css";
 
